@@ -1,0 +1,43 @@
+AMM.dll & RFML.dll – Custom License
+
+
+Copyright (c) 2025 Marco Fedeli
+
+
+This software is distributed in compiled form only (.dll).  
+The source code is proprietary and is not included or shared publicly.  
+All rights are reserved by the author.
+
+
+You are allowed to:
+- Use the ML models in MetaTrader 4 for personal or educational purposes only.
+
+
+You are not allowed to:
+- Decompile, reverse engineer, disassemble or modify the file.
+- Redistribute the file in any form, whether free or paid.
+- Sell or offer the file as part of a product, bundle, or commercial service.
+- Use the ML models for commercial trading services, account management, signal services, or as part of any professional consultancy.
+- Any commercial use of this software requires prior written authorization from the author.
+
+
+By using this software, you agree to the terms of this license.
+
+
+---
+
+
+Disclaimer of Liability and Financial Responsibility
+
+
+This software is provided "as is", without warranty of any kind, express or implied.  
+Use of this indicator is at your own risk. The author shall not be held liable for any damages, losses, or consequences resulting from the use of this software in any form.
+
+
+Marco Fedeli is not a financial advisor or licensed investment professional.  
+This software does not constitute financial advice or a trading recommendation.  
+It is intended strictly for educational or personal research use.
+
+
+For any use not covered by this license or for commercial inquiries, please contact:  
+**Marco Fedeli** – marcofedeli05@icloud.com
