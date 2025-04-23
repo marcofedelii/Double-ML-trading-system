@@ -55,6 +55,9 @@ You may not:
 
 Please refer to `LICENSE` for detailed legal terms.
 
+Link for Volume Profile indicator:
+https://github.com/marcofedelii/Volume-Profile-indicator
+
 ## Author
 
 Developed by **Marco Fedeli**
